@@ -1,0 +1,109 @@
+{
+    "API_TOKEN_DATA365": {
+        "token_total_mentions_count": 1115923,
+        "Facebook": {
+            "platform_total_mentions_count": 214071,
+            "tasks": [
+                {
+                    "mentions_count": 162251,
+                    "task_type": "post_with_comments",
+                    "tasks_count": 55769
+                },
+                {
+                    "mentions_count": 43137,
+                    "task_type": "profile",
+                    "tasks_count": 4793
+                },
+                {
+                    "mentions_count": 8515,
+                    "task_type": "profile_with_posts",
+                    "tasks_count": 752
+                },
+                {
+                    "mentions_count": 168,
+                    "task_type": "post",
+                    "tasks_count": 168
+                }
+            ]
+        },
+        "Twitter": {
+            "platform_total_mentions_count": 836494,
+            "tasks": [
+                {
+                    "mentions_count": 703602,
+                    "task_type": "post",
+                    "tasks_count": 135142
+                },
+                {
+                    "mentions_count": 132892,
+                    "task_type": "profile_with_posts",
+                    "tasks_count": 6412
+                }
+            ]
+        },
+        "Instagram": {
+            "platform_total_mentions_count": 43113,
+            "tasks": [
+                {
+                    "mentions_count": 26487,
+                    "task_type": "profile",
+                    "tasks_count": 2943
+                },
+                {
+                    "mentions_count": 12286,
+                    "task_type": "post_with_comments",
+                    "tasks_count": 3505
+                },
+                {
+                    "mentions_count": 4259,
+                    "task_type": "profile_with_posts",
+                    "tasks_count": 361
+                },
+                {
+                    "mentions_count": 81,
+                    "task_type": "post",
+                    "tasks_count": 81
+                }
+            ]
+        },
+        "TikTok": {
+            "platform_total_mentions_count": 22245,
+            "tasks": [
+                {
+                    "mentions_count": 11568,
+                    "task_type": "post_with_comments",
+                    "tasks_count": 1345
+                },
+                {
+                    "mentions_count": 10581,
+                    "task_type": "profile_with_posts",
+                    "tasks_count": 1086
+                },
+                {
+                    "mentions_count": 96,
+                    "task_type": "post",
+                    "tasks_count": 96
+                }
+            ]
+        }
+    },
+    "API_TOKEN_DATA365_INIT": {
+        "token_total_mentions_count": 0,
+        "Facebook": {
+            "platform_total_mentions_count": 0,
+            "tasks": []
+        },
+        "Twitter": {
+            "platform_total_mentions_count": 0,
+            "tasks": []
+        },
+        "Instagram": {
+            "platform_total_mentions_count": 0,
+            "tasks": []
+        },
+        "TikTok": {
+            "platform_total_mentions_count": 0,
+            "tasks": []
+        }
+    }
+}
