@@ -25,73 +25,73 @@
             "tasks_count": 168
         },
         {
-                    "mentions_count": 703602,
+            "mentions_count": 703602,
             "platform": "Twitter",
-                    "task_type": "post",
-                    "tasks_count": 135142
-                },
-                {
-                    "mentions_count": 132892,
-                    "platform": "Twitter",
-                    "task_type": "profile_with_posts",
-                    "tasks_count": 6412
-                },
-         {
-                    "mentions_count": 26487,
-             "platform": "Instagram",
-                    "task_type": "profile",
-                    "tasks_count": 2943
-                },
-                {
-                    "mentions_count": 12286,
-                    "platform": "Instagram",
-                    "task_type": "post_with_comments",
-                    "tasks_count": 3505
-                },
-                {
-                    "mentions_count": 4259,
-                    "platform": "Instagram",
-                    "task_type": "profile_with_posts",
-                    "tasks_count": 361
-                },
-                {
-                    "mentions_count": 81,
-                    "platform": "Instagram",
-                    "task_type": "post",
-                    "tasks_count": 81
-                },
+            "task_type": "post",
+            "tasks_count": 135142
+        },
         {
-                    "mentions_count": 11568,
+            "mentions_count": 132892,
+            "platform": "Twitter",
+            "task_type": "profile_with_posts",
+            "tasks_count": 6412
+        },
+        {
+            "mentions_count": 26487,
+            "platform": "Instagram",
+            "task_type": "profile",
+            "tasks_count": 2943
+        },
+        {
+            "mentions_count": 12286,
+            "platform": "Instagram",
+            "task_type": "post_with_comments",
+            "tasks_count": 3505
+        },
+        {
+            "mentions_count": 4259,
+            "platform": "Instagram",
+            "task_type": "profile_with_posts",
+            "tasks_count": 361
+        },
+        {
+            "mentions_count": 81,
+            "platform": "Instagram",
+            "task_type": "post",
+            "tasks_count": 81
+        },
+        {
+            "mentions_count": 11568,
             "platform": "TikTok",
-                    "task_type": "post_with_comments",
-                    "tasks_count": 1345
-                },
-                {
-                    "mentions_count": 10581,
-                    "platform": "TikTok",
-                    "task_type": "profile_with_posts",
-                    "tasks_count": 1086
-                },
-                {
-                    "mentions_count": 96,
-                    "platform": "TikTok",
-                    "task_type": "post",
-                    "tasks_count": 96
-                }
+            "task_type": "post_with_comments",
+            "tasks_count": 1345
+        },
+        {
+            "mentions_count": 10581,
+            "platform": "TikTok",
+            "task_type": "profile_with_posts",
+            "tasks_count": 1086
+        },
+        {
+            "mentions_count": 96,
+            "platform": "TikTok",
+            "task_type": "post",
+            "tasks_count": 96
+        }
     ],
     "API_TOKEN_DATA365_total": {
         "token_total_mentions_count": 1115923,
         "Facebook": {
-            "platform_total_mentions_count": 214071,
+            "platform_total_mentions_count": 214071
         },
         "Twitter": {
-            "platform_total_mentions_count": 836494,
+            "platform_total_mentions_count": 836494
         },
         "Instagram": {
-            "platform_total_mentions_count": 43113,
+            "platform_total_mentions_count": 43113
         },
         "TikTok": {
-            "platform_total_mentions_count": 22245,
+            "platform_total_mentions_count": 22245
         }
     },
     "API_TOKEN_DATA365_INIT": {
