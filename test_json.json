@@ -25,41 +25,31 @@
             "tasks_count": 12
         }
     ],
-    "API_TOKEN_DATA365_total": [
+    "API_TOKEN_DATA365_TOTAL": [
         {
+            "platform": "Twitter",
             "platform_total_mentions_count": 214071,
-            "platform": "Twitter"
+            "task_type": "profile"
         },
         {
+            "platform": "Twitter",
+            "platform_total_mentions_count": 214071,
+            "task_type": "post"
+        },
+        {
+            "platform": "Twitter",
+            "platform_total_mentions_count": 214071,
+            "task_type": "post_with_comments"
+        },
+        {
+            "platform": "Facebook",
             "platform_total_mentions_count": 836494,
-            "platform": "Facebook"
+            "task_type": "post"
         },
         {
-            "platform_total_mentions_count": 43113,
-            "platform": "Instagram"
-        },
-        {
-            "platform_total_mentions_count": 22245,
-            "platform": "TikTok"
+            "platform": "Facebook",
+            "platform_total_mentions_count": 836494,
+            "task_type": "profile_with_posts"
         }
-    ],
-    "API_TOKEN_DATA365_INIT": {
-        "token_total_mentions_count": 0,
-        "Facebook": {
-            "platform_total_mentions_count": 0,
-            "tasks": []
-        },
-        "Twitter": {
-            "platform_total_mentions_count": 0,
-            "tasks": []
-        },
-        "Instagram": {
-            "platform_total_mentions_count": 0,
-            "tasks": []
-        },
-        "TikTok": {
-            "platform_total_mentions_count": 0,
-            "tasks": []
-        }
-    }
+    ]
 }
