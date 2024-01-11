@@ -28,28 +28,33 @@
     "API_TOKEN_DATA365_TOTAL": [
         {
             "platform": "Twitter",
-            "platform_total_mentions_count": 254071,
-            "task_type": "profile"
+            "platform_total_mentions_count": 214071,
+            "task_type": "profile",
+			"tasks_count": 11
         },
         {
             "platform": "Twitter",
-            "platform_total_mentions_count": 184071,
-            "task_type": "post"
+            "platform_total_mentions_count": 214071,
+            "task_type": "post",
+			"tasks_count": 12
         },
         {
             "platform": "Twitter",
-            "platform_total_mentions_count": 244071,
-            "task_type": "post_with_comments"
+            "platform_total_mentions_count": 214071,
+            "task_type": "post_with_comments",
+			"tasks_count": 13
         },
         {
             "platform": "Facebook",
             "platform_total_mentions_count": 836494,
-            "task_type": "post"
+            "task_type": "post",
+			"tasks_count": 14
         },
         {
             "platform": "Facebook",
-            "platform_total_mentions_count": 436494,
-            "task_type": "profile_with_posts"
+            "platform_total_mentions_count": 836494,
+            "task_type": "profile_with_posts",
+			"tasks_count": 15
         }
     ]
 }
