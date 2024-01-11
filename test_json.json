@@ -26,17 +26,21 @@
         }
     ],
     "API_TOKEN_DATA365_total": [
-        "Facebook": {
-            "platform_total_mentions_count": 214071
+        {
+            "platform_total_mentions_count": 214071,
+            "platform": "Twitter",
         },
-        "Twitter": {
-            "platform_total_mentions_count": 836494
+        {
+            "platform_total_mentions_count": 836494,
+            "platform": "Facebook",
         },
-        "Instagram": {
-            "platform_total_mentions_count": 43113
+        {
+            "platform_total_mentions_count": 43113,
+            "platform": "Instagram",
         },
-        "TikTok": {
-            "platform_total_mentions_count": 22245
+        {
+            "platform_total_mentions_count": 22245,
+            "platform": "TikTok",
         }
     ],
     "API_TOKEN_DATA365_INIT": {
