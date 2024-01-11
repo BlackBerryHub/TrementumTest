@@ -28,19 +28,19 @@
     "API_TOKEN_DATA365_total": [
         {
             "platform_total_mentions_count": 214071,
-            "platform": "Twitter",
+            "platform": "Twitter"
         },
         {
             "platform_total_mentions_count": 836494,
-            "platform": "Facebook",
+            "platform": "Facebook"
         },
         {
             "platform_total_mentions_count": 43113,
-            "platform": "Instagram",
+            "platform": "Instagram"
         },
         {
             "platform_total_mentions_count": 22245,
-            "platform": "TikTok",
+            "platform": "TikTok"
         }
     ],
     "API_TOKEN_DATA365_INIT": {
