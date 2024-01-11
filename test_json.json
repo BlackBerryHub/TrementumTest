@@ -4,84 +4,24 @@
             "date": "2024-01-01",
             "mentions_count": 100,
             "platform": "Facebook",
-            "task_type": "post_with_comments",
             "tasks_count": 10
-        },
-        {
-            "date": "2024-01-01",
-            "mentions_count": 105,
-            "platform": "Facebook",
-            "task_type": "profile",
-            "tasks_count": 15
-        },
-        {
-            "date": "2024-01-01",
-            "mentions_count": 110,
-            "platform": "Facebook",
-            "task_type": "profile_with_posts",
-            "tasks_count": 20
-        },
-        {
-            "date": "2024-01-01",
-            "mentions_count": 115,
-            "platform": "Facebook",
-            "task_type": "post",
-            "tasks_count": 25
         },
         {
             "date": "2024-01-02",
             "mentions_count": 120,
             "platform": "Facebook",
-            "task_type": "post_with_comments",
             "tasks_count": 30
         },
         {
-            "date": "2024-01-02",
-            "mentions_count": 125,
-            "platform": "Facebook",
-            "task_type": "profile",
-            "tasks_count": 35
-        },
-        {
-            "date": "2024-01-02",
-            "mentions_count": 130,
-            "platform": "Facebook",
-            "task_type": "profile_with_posts",
-            "tasks_count": 40
-        },
-        {
-            "date": "2024-01-02",
-            "mentions_count": 135,
-            "platform": "Facebook",
-            "task_type": "post",
-            "tasks_count": 45
-        },
-        {
             "date": "2024-01-01",
             "mentions_count": 100,
             "platform": "Twitter",
-            "task_type": "post",
-            "tasks_count": 10
-        },
-        {
-            "date": "2024-01-01",
-            "mentions_count": 105,
-            "platform": "Twitter",
-            "task_type": "profile_with_posts",
-            "tasks_count": 12
-        },
-        {
-            "date": "2024-01-02",
-            "mentions_count": 100,
-            "platform": "Twitter",
-            "task_type": "post",
             "tasks_count": 10
         },
         {
             "date": "2024-01-02",
             "mentions_count": 105,
             "platform": "Twitter",
-            "task_type": "profile_with_posts",
             "tasks_count": 12
         }
     ],
