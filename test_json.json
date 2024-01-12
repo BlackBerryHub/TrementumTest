@@ -79,7 +79,8 @@
             "tasks_count": 132
         }
     ],
-        "API_TOKEN_DATA365_PER_PLATFORM_PER_DAY": [
+        {
+    "API_TOKEN_DATA365_PER_PLATFORM_PER_DAY": [
         {
             "date": "2024-01-01",
             "mentions_count": 100,
@@ -95,6 +96,12 @@
 		{
             "date": "2024-01-03",
             "mentions_count": 115,
+            "platform": "Facebook",
+            "tasks_count": 30
+        },
+				{
+            "date": "2024-01-04",
+            "mentions_count": 130,
             "platform": "Facebook",
             "tasks_count": 30
         },
@@ -117,20 +124,32 @@
             "tasks_count": 12
         },
 		{
+            "date": "2024-01-04",
+            "mentions_count": 140,
+            "platform": "Twitter",
+            "tasks_count": 12
+        },
+		{
             "date": "2024-01-01",
-            "mentions_count": 150,
+            "mentions_count": 115,
             "platform": "TikTok",
             "tasks_count": 10
         },
         {
             "date": "2024-01-02",
-            "mentions_count": 115,
+            "mentions_count": 155,
             "platform": "TikTok",
             "tasks_count": 12
         },
 		{
             "date": "2024-01-03",
-            "mentions_count": 130,
+            "mentions_count": 125,
+            "platform": "TikTok",
+            "tasks_count": 12
+        },
+		{
+            "date": "2024-01-04",
+            "mentions_count": 145,
             "platform": "TikTok",
             "tasks_count": 12
         }
