@@ -1,17 +1,17 @@
 {
     "API_TOKEN_DATA365_TOTAL": {
-        "Facebook": 2000,
-        "Instagram": 3000,
-        "Twitter": 4000,
-        "TikTok": 5000,
-        "Total": 14000,
-        "Facebook init": 1000,
-        "Instagram init": 2000,
-        "Twitter init": 3000,
-        "TikTok init": 4000,
-        "Total init": 10000,
-        "Total quotes": 24000
-    },
+		"Facebook":2000,
+		"Instagram":3000,
+		"Twitter":4000,
+		"TikTok":5000,
+		"Total":14000,
+		"Facebook Initial":1000,
+		"Instagram Initial":2000,
+		"Twitter Initial":3000,
+		"TikTok Initial":4000,
+		"Total Initial":10000,
+		"Total Quotes": 24000
+	}
     "API_TOKEN_DATA365_PER_PLATFORM_PER_TYPE_TOTAL": [
         {
             "mentions_count": 214285,
