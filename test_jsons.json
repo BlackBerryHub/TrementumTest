@@ -152,5 +152,63 @@
             "platform": "TikTok",
             "tasks_count": 12
         }
+    ],
+        "API_TOKEN_DATA365_PER_TYPE_PER_DAY": [
+        {
+            "date": "2024-01-01",
+            "mentions_count": 50,
+            "platform": "Facebook",
+			"task_type": "profile",
+            "tasks_count": 10
+        },
+		{
+            "date": "2024-01-01",
+            "mentions_count": 100,
+            "platform": "Facebook",
+			"task_type": "profile_with_posts",
+            "tasks_count": 10
+        },
+        {
+            "date": "2024-01-01",
+            "mentions_count": 220,
+            "platform": "Facebook",
+			"task_type": "post_with_comments",
+            "tasks_count": 30
+        },
+		        {
+            "date": "2024-01-01",
+            "mentions_count": 190,
+            "platform": "Facebook",
+			"task_type": "post",
+            "tasks_count": 30
+        },
+        {
+            "date": "2024-01-02",
+            "mentions_count": 70,
+            "platform": "Facebook",
+			"task_type": "profile",
+            "tasks_count": 10
+        },
+		{
+            "date": "2024-01-02",
+            "mentions_count": 170,
+            "platform": "Facebook",
+			"task_type": "profile_with_posts",
+            "tasks_count": 10
+        },
+        {
+            "date": "2024-01-02",
+            "mentions_count": 250,
+            "platform": "Facebook",
+			"task_type": "post_with_comments",
+            "tasks_count": 30
+        },
+		        {
+            "date": "2024-01-02",
+            "mentions_count": 140,
+            "platform": "Facebook",
+			"task_type": "post",
+            "tasks_count": 30
+        }
     ]
 }
