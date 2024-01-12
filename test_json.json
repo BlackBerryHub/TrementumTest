@@ -11,7 +11,7 @@
 		"TikTok Initial":4000,
 		"Total Initial":10000,
 		"Total Quotes": 24000
-	}
+    },
     "API_TOKEN_DATA365_PER_PLATFORM_PER_TYPE_TOTAL": [
         {
             "mentions_count": 214285,
