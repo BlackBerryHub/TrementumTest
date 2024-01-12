@@ -1,4 +1,11 @@
 {
+	    "API_TOKEN_DATA365_TOTAL": {
+		"Facebook":5000,
+		"Instagram":5000,
+		"Twitter":5000,
+		"TikTok":5000,
+		"Total":20000		
+	},
     "API_TOKEN_DATA365_PER_PLATFORM_PER_TYPE_TOTAL": [
         {
             "mentions_count": 214285,
