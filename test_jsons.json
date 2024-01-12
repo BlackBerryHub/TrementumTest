@@ -1,11 +1,17 @@
 {
-	    "API_TOKEN_DATA365_TOTAL": {
-		"Facebook":5000,
-		"Instagram":5000,
-		"Twitter":5000,
-		"TikTok":5000,
-		"Total":20000		
-	},
+    "API_TOKEN_DATA365_TOTAL": {
+        "Facebook": 2000,
+        "Instagram": 3000,
+        "Twitter": 4000,
+        "TikTok": 5000,
+        "Total": 14000,
+        "Facebook init": 1000,
+        "Instagram init": 2000,
+        "Twitter init": 3000,
+        "TikTok init": 4000,
+        "Total init": 10000,
+        "Total quotes": 24000
+    },
     "API_TOKEN_DATA365_PER_PLATFORM_PER_TYPE_TOTAL": [
         {
             "mentions_count": 214285,
@@ -160,61 +166,61 @@
             "tasks_count": 12
         }
     ],
-        "API_TOKEN_DATA365_PER_TYPE_PER_DAY": [
+    "API_TOKEN_DATA365_PER_TYPE_PER_DAY": [
         {
             "date": "2024-01-01",
             "mentions_count": 50,
             "platform": "Facebook",
-			"task_type": "profile",
+            "task_type": "profile",
             "tasks_count": 10
         },
-		{
+        {
             "date": "2024-01-01",
             "mentions_count": 100,
             "platform": "Facebook",
-			"task_type": "profile_with_posts",
+            "task_type": "profile_with_posts",
             "tasks_count": 10
         },
         {
             "date": "2024-01-01",
             "mentions_count": 220,
             "platform": "Facebook",
-			"task_type": "post_with_comments",
+            "task_type": "post_with_comments",
             "tasks_count": 30
         },
-		        {
+        {
             "date": "2024-01-01",
             "mentions_count": 190,
             "platform": "Facebook",
-			"task_type": "post",
+            "task_type": "post",
             "tasks_count": 30
         },
         {
             "date": "2024-01-02",
             "mentions_count": 70,
             "platform": "Facebook",
-			"task_type": "profile",
+            "task_type": "profile",
             "tasks_count": 10
         },
-		{
+        {
             "date": "2024-01-02",
             "mentions_count": 170,
             "platform": "Facebook",
-			"task_type": "profile_with_posts",
+            "task_type": "profile_with_posts",
             "tasks_count": 10
         },
         {
             "date": "2024-01-02",
             "mentions_count": 250,
             "platform": "Facebook",
-			"task_type": "post_with_comments",
+            "task_type": "post_with_comments",
             "tasks_count": 30
         },
-		        {
+        {
             "date": "2024-01-02",
             "mentions_count": 140,
             "platform": "Facebook",
-			"task_type": "post",
+            "task_type": "post",
             "tasks_count": 30
         }
     ]
